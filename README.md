@@ -6,3 +6,4 @@
 
 ## UX Journal
 
+### [Journal Entry 1]()
