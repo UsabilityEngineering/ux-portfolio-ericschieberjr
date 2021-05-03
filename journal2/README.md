@@ -12,7 +12,7 @@
 
    After realizing the button wasn’t there, I had remembered watching my friend use his iPhone X in the past. To my recollection, I remember my friend swiping his thumb in different directions to navigate through the screens on his phone. With this information in mind, I naturally swiped my thumb up to see what would happen. The screenshot below is from an online tutorial on how to get to the home page using an iPhone X. You can imagine that I did the same motion but with my thumb instead of my index finger. After attempting my best guess, I was presented with a familiar screen. The screen I saw was a screen in iOS that allows the user to close out open applications running in the background. This screen on an iPhone 7 can be prompted by pressing the physical home button twice. Below the first image is another image showing the screen I am talking about. I scanned this screen with my eyes looking for any indication as to how to return to the home screen. I could not find anything. The only thing I could do was return to the app I was just in along with any other apps that were already running in the background. 
 
-<img src="https://user-images.githubusercontent.com/71254354/116841276-88469e80-ab8d-11eb-8a80-b966adfb5561.png" width="1046" height="500">
+<img src="https://user-images.githubusercontent.com/71254354/116841276-88469e80-ab8d-11eb-8a80-b966adfb5561.png" width="846" height="500">
 
 <img src="https://user-images.githubusercontent.com/71254354/116841432-0a36c780-ab8e-11eb-8820-3537f2d06c57.jpg" width="700" height="546">
 
