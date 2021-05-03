@@ -8,4 +8,4 @@
 
 ### [Journal Entry 1](https://usabilityengineering.github.io/ux-portfolio-ericschieberjr/journal1)
 
-### [Journal Entry 2](https://usabilityengineering.github.io/ux-portfolio-ericschieberjr/journal2
+### [Journal Entry 2](https://usabilityengineering.github.io/ux-portfolio-ericschieberjr/journal2)
