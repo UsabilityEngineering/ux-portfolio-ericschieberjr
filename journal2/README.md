@@ -24,7 +24,7 @@
 
    Another thing I think about is the level of **satisfaction** that comes with the new way of navigating iPhone screens. Personally, I am a sucker for the physical feedback that comes with clicking things, typing, pressing buttons, etc. With a swiping motion, I can definitely say it is not as **satisfying** as pressing a physical button that clicks. I do not think that this is detrimental to the overall user experience, but it’s something that I definitely noticed and thought should be mentioned.
 
-   Lastly, I will say that I think this experience was overall fairly **efficient.** After getting over the learning curve, I had begun to notice how much faster the swiping gestures had made it for me to navigate within the iPhone. I could only imagine how quickly I could get to my desired screen once I had built up the proper amount of muscle memory. Though the difference in time between the using swiping gestures and using buttons is miniscule, I could see how using swiping gestures over time would make the need for the physical button less and less necessary.
+   Lastly, I will say that I think this experience was overall fairly **efficient.** I had begun to notice how much faster the swiping gestures had made it for me to navigate within the iPhone. I could only imagine how quickly I could get to my desired screen once I had built up the proper amount of muscle memory. Though the difference in time between the using swiping gestures and using buttons is miniscule, I could see how using swiping gestures over time would make the need for the physical button less and less necessary.
 
 
 
